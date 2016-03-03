@@ -8,14 +8,14 @@ Imports System.Runtime.InteropServices
 
 ' Die Werte der Assemblyattribute überprüfen
 
-<Assembly: AssemblyTitle("RCON Chat")> 
+<Assembly: AssemblyTitle("WiW RCON Chat")>
 <Assembly: AssemblyDescription("An enhanced viewer/modification util for rconnet.de chat logs")> 
 <Assembly: AssemblyCompany("")> 
 <Assembly: AssemblyProduct("")> 
 <Assembly: AssemblyCopyright("2013 Dominic Reich")> 
-<Assembly: AssemblyTrademark("")> 
+<Assembly: AssemblyTrademark("")>
 
-<Assembly: ComVisible(True)> 
+<Assembly: ComVisible(False)>
 
 <Assembly: AssemblyVersion("1.2.*")> 
 
