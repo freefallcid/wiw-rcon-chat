@@ -26,13 +26,13 @@
     <MapFileExtensions>true</MapFileExtensions>
     <InstallUrl>http://tools.dominicreich.com/WiW-RCON-Chat/</InstallUrl>
     <UpdateUrl>http://tools.dominicreich.com/WiW-RCON-Chat/</UpdateUrl>
-    <SupportUrl>http://tmsn.at/%3ftools&amp;rcon-chat</SupportUrl>
+    <SupportUrl>http://klamm.io</SupportUrl>
     <ErrorReportUrl>https://github.com/freefallcid/wiw-rcon-chat/issues</ErrorReportUrl>
     <ProductName>WiW RCON Chat</ProductName>
     <PublisherName>Dominic Reich</PublisherName>
     <SuiteName>WiW Tools</SuiteName>
     <OpenBrowserOnPublish>false</OpenBrowserOnPublish>
-    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationRevision>3</ApplicationRevision>
     <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <CreateDesktopShortcut>true</CreateDesktopShortcut>
