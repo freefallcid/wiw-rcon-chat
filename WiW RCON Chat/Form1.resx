@@ -487,7 +487,7 @@
     <value>7</value>
   </data>
   <data name="link_Email.Text" xml:space="preserve">
-    <value>dominic@tmsn.at</value>
+    <value>Email</value>
   </data>
   <data name="link_Email.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
@@ -514,7 +514,7 @@
     <value>8</value>
   </data>
   <data name="link_Website.Text" xml:space="preserve">
-    <value>http://tmsn.at/?tools&amp;&amp;rcon-chat</value>
+    <value>Website</value>
   </data>
   <data name="link_Website.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleCenter</value>
