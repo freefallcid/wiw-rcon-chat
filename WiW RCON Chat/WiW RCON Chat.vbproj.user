@@ -3,7 +3,7 @@
   <PropertyGroup>
     <PublishUrlHistory>Z:\WiW-RCON-Chat\|publish\</PublishUrlHistory>
     <InstallUrlHistory>http://tools.dominicreich.com/WiW-RCON-Chat/</InstallUrlHistory>
-    <SupportUrlHistory>http://tmsn.at/%3ftools&amp;rcon-chat</SupportUrlHistory>
+    <SupportUrlHistory>http://klamm.io|http://tmsn.at/%3ftools&amp;rcon-chat</SupportUrlHistory>
     <UpdateUrlHistory>http://tools.dominicreich.com/WiW-RCON-Chat/</UpdateUrlHistory>
     <BootstrapperUrlHistory />
     <ErrorReportUrlHistory>https://github.com/freefallcid/wiw-rcon-chat/issues</ErrorReportUrlHistory>

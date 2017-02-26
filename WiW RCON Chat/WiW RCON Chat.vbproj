@@ -26,7 +26,7 @@
     <MapFileExtensions>true</MapFileExtensions>
     <InstallUrl>http://tools.dominicreich.com/WiW-RCON-Chat/</InstallUrl>
     <UpdateUrl>http://tools.dominicreich.com/WiW-RCON-Chat/</UpdateUrl>
-    <SupportUrl>http://klamm.io</SupportUrl>
+    <SupportUrl>https://dominicreich.com</SupportUrl>
     <ErrorReportUrl>https://github.com/freefallcid/wiw-rcon-chat/issues</ErrorReportUrl>
     <ProductName>WiW RCON Chat</ProductName>
     <PublisherName>Dominic Reich</PublisherName>

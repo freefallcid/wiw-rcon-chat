@@ -56,7 +56,7 @@ Public Class frmMain
     Private Sub link_Email_LinkClicked(sender As Object, e As LinkLabelLinkClickedEventArgs) Handles link_Email.LinkClicked
         On Error GoTo showerr
         link_Email.LinkVisited = True
-        System.Diagnostics.Process.Start("mailto:Dominic Reich <dr@klamm.io>")
+        System.Diagnostics.Process.Start("mailto:Dominic Reich <info@dominicreich.com>")
         Exit Sub
 showerr:
         MessageBox.Show(Err.Description, "An error occured", MessageBoxButtons.OK, MessageBoxIcon.Error)
@@ -65,7 +65,7 @@ showerr:
     Private Sub link_Website_LinkClicked(sender As Object, e As LinkLabelLinkClickedEventArgs) Handles link_Website.LinkClicked
         On Error GoTo showerr
         link_Website.LinkVisited = True
-        System.Diagnostics.Process.Start("http://klamm.io")
+        System.Diagnostics.Process.Start("https://dominicreich.com")
         Exit Sub
 showerr:
         MessageBox.Show(Err.Description, "An error occured", MessageBoxButtons.OK, MessageBoxIcon.Error)
